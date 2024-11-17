@@ -1,0 +1,52 @@
+
+# Byte-compiled Python files
+*.pyc
+*.pyo
+
+# Virtual environment files
+.vnv/
+.venv/
+env/
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
+
+# Visual Studio Code settings
+.vscode/
+
+# PyCharm project files
+*.pycharm/
+
+# Jupyter Notebook files
+*.ipynb_checkpoints
+
+# Log files
+*.log
+
+# Database files
+*.db
+
+# Data files
+data/
+
+# Documentation files
+docs/
+
+# Tests files
+tests/
+
+# Requirements file
+requirements.txt
+
+# Git conflict files
+*.conflict
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Other unwanted files
+*.tmp
+*.bak
+*.swp
